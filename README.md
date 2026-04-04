@@ -252,23 +252,8 @@ gigshield-ai/
 
 ---
 
-## 🎬 Demo Video Script
+## 🎬 Demo Video 
 
-### Problem (20 seconds)
-
-_"Every day, millions of delivery workers in India risk their income. When it rains, when pollution spikes, when curfews hit—they lose 20-30% of their earnings with no protection."_
-
-### Solution (30 seconds)
-
-_"Introducing GigShield AI—the first AI-powered income protection for gig workers. Pay just ₹20 per week, and get instant payouts when weather, pollution, or restrictions prevent you from working. No paperwork. No waiting. Just protection."_
-
-### Demo Flow (40 seconds)
-
-_"Here's how it works: Register in 30 seconds with our AI-powered dynamic pricing. Choose your weekly plan, and you're covered. Our AI monitors rain, AQI, and traffic 24/7. When conditions hit critical levels—boom—your payout arrives automatically in minutes."_
-
-### Tech + AI (30 seconds)
-
-_"We use machine learning to predict risks, detect fraud, and dynamically price your coverage. Our parametric triggers ensure fair, transparent payouts every single time. Zero-touch claims mean you focus on earning, we handle the rest."_
 
 ---
 
@@ -332,9 +317,16 @@ python risks_model.py
 
 ---
 
-## 📞 Contact
+## Team
+  
 
-For questions or collaborations, reach out to the team.
+| Name                     | Role         |
+|--------------------------|--------------|
+| M.V Ashika Reddy         | Team Leader  |
+| K. Bonishira Akshaya     | Member       |
+| N. Meena Amrutha         | Member       |
+| S. Jaswanth              | Member       |
+| M.Suresh                 | Member       |
 
 ---
 

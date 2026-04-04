@@ -252,9 +252,10 @@ gigshield-ai/
 
 ---
 
-## 🎬 Demo Video 
+## 📱 Demo Video
 
-
+Watch our Demo here:
+https://youtu.be/Lq2fOudsM0w
 ---
 
 ## 🔧 Setup Instructions
